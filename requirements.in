@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+
+# 环境变量与依赖注入
+python-dotenv
+
+# LangChain框架相关
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-weaviate
+langchain-classic
+
+# LLM大语言模型相关
+langchain-openai  # OpenAI
+langchain-ollama  # Ollama
+dashscope  # 通义千问
+qianfan  # 文心一言
+
+# 自然语言处理与分词
+jieba
+transformers
+pydantic
+pandas
+
+# 内置工具
+requests
+wikipedia
+duckduckgo-search
