@@ -11,7 +11,7 @@ chat = ChatOpenAI(
     max_tokens=None,
     timeout=None,
     max_retries=2,
-    api_key="bce-v3/ALTAK-xzJzYoNjuRqm9reJqlL86/eef4586b757caeef08e42a163a6901d309b2270c",
+    api_key="",
     # 你的api-key，在这里创建：https://console.bce.baidu.com/iam/#/iam/apikey/list
     base_url="https://qianfan.baidubce.com/v2/",  # 千帆modelbuilder 的base_url
 )
