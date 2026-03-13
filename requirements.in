@@ -15,7 +15,8 @@ langchain-classic
 # LLM大语言模型相关
 langchain-openai  # OpenAI
 langchain-ollama  # Ollama
-dashscope  # 通义千问
+
+ dashscope  # 通义千问
 qianfan  # 文心一言
 
 # 自然语言处理与分词
@@ -23,6 +24,10 @@ jieba
 transformers
 pydantic
 pandas
+
+# 向量数据库
+langchain_pinecone
+langchain-huggingface  # HuggingFace
 
 # 内置工具
 requests

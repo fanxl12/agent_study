@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/8 16:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : google_serp_tool.py
 """
 import dotenv

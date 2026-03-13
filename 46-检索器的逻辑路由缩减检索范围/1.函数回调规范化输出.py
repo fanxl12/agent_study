@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/5 13:08
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.函数回调规范化输出.py
 """
 from typing import Literal

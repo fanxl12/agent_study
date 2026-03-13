@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/8/7 11:18
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 16.RAPTOR递归文档树优化策略.py
 """
 from typing import Optional

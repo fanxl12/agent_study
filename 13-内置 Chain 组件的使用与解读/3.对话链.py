@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/5/22 9:40
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 3.对话链.py
 """
 import dotenv

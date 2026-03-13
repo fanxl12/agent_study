@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/3 9:59
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.翻译转换器示例.py
 """
 import dotenv

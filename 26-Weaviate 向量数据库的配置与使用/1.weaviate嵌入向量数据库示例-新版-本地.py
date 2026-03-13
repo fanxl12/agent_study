@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/29 22:36
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.weaviate嵌入向量数据库示例.py
 """
 import dotenv

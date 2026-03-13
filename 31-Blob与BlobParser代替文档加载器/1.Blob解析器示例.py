@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/2 10:51
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Blob解析器示例.py
 """
 from typing import Iterator

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/9 17:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.GPT模型绑定函数.py
 """
 import asyncio

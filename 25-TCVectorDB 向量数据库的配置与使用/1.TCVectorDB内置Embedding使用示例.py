@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/29 16:05
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.TCVectorDB内置Embedding使用示例.py
 """
 import os

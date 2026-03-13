@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/18 9:04
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.LangGraph实现CRAG.py
 """
 from typing import TypedDict, Any

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/13 12:34
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.LLM文生图应用.py
 """
 import dotenv

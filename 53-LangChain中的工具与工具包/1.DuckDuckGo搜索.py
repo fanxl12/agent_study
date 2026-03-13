@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/8 11:08
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.DuckDuckGo搜索.py
 """
 from langchain_community.tools import DuckDuckGoSearchRun

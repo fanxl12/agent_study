@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/10 1:33
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.JsonOutputParser使用技巧.py
 """
 import dotenv

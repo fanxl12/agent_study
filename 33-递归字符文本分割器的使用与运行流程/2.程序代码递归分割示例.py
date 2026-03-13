@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/2 8:21
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.程序代码递归分割示例.py
 """
 from langchain_community.document_loaders import UnstructuredFileLoader

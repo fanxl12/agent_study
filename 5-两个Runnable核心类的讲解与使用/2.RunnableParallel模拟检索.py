@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/10 17:44
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.RunnableParallel模拟检索.py
 """
 from operator import itemgetter

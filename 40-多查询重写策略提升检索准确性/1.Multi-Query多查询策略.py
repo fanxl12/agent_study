@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/3 9:25
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Multi-Query多查询策略.py
 """
 import dotenv

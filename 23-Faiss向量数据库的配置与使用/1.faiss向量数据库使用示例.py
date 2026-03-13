@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/28 17:13
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.faiss向量数据库使用示例.py
 """
 import dotenv

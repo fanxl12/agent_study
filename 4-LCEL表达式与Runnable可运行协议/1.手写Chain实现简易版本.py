@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/10 10:56
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.手写Chain实现简易版本.py
 """
 from typing import Any

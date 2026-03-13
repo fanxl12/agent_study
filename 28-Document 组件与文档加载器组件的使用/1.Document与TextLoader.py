@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/1 15:27
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Document与TextLoader.py
 """
 from langchain_community.document_loaders import TextLoader

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/15 1:23
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.基础LangGraph示例.py
 """
 from typing import TypedDict, Annotated, Any

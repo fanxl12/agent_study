@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/12 9:51
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.错误捕获.py
 """
 from typing import Any

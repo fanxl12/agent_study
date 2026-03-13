@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/5/22 9:22
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.对话消息历史组件基础.py
 """
 from langchain_core.chat_history import InMemoryChatMessageHistory

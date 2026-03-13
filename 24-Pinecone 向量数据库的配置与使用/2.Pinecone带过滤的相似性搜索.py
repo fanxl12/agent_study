@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/29 8:12
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.Pinecone带过滤的相似性搜索.py
 """
 import dotenv

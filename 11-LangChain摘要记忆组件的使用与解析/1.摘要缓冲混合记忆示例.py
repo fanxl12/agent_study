@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/5/23 1:55
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.摘要缓冲混合记忆示例.py
 """
 from operator import itemgetter

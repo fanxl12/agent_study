@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/4 18:51
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.bind函数使用技巧.py
 """
 import dotenv

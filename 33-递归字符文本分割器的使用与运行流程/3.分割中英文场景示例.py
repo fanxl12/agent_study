@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/2 10:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 3.分割中英文场景示例.py
 """
 from langchain_community.document_loaders import UnstructuredMarkdownLoader

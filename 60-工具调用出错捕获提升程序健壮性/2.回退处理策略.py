@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/12 10:17
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.回退处理策略.py
 """
 import dotenv

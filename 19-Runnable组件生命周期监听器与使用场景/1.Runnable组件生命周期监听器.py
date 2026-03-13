@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/5 22:41
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Runnable组件生命周期监听器.py
 """
 import time

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/16 15:39
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.trim_messages修剪消息.py
 """
 import dotenv

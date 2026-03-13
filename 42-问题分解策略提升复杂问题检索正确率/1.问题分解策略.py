@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/4 9:30
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 3.问题分解策略.py
 """
 from operator import itemgetter

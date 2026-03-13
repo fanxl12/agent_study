@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/26 14:51
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 01.Hugging Face本地嵌入模型.py
 """
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L12-v2",

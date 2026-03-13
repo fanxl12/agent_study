@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/8 22:00
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.字符串提示拼接.py
 """
 from langchain_core.prompts import PromptTemplate

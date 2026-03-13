@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/4 17:10
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.多LLM链选择示例.py
 """
 import dotenv

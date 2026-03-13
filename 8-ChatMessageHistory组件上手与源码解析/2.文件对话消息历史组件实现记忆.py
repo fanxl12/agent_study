@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/5/22 23:33
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.文件对话消息历史组件实现记忆.py
 """
 import dotenv

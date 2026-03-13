@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/01 19:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.回调功能使用技巧.py
 """
 import time

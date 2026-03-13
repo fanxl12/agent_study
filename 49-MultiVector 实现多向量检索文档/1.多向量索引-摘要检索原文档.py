@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/6 19:35
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.多向量索引-摘要检索原文档.py
 """
 import uuid

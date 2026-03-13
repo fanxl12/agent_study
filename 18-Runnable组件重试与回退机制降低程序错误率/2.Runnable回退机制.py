@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/6 11:37
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.Runnable回退机制.py
 """
 import dotenv

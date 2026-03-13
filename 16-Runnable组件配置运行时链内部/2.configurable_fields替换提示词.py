@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/4 15:22
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.configurable_fields替换提示词.py
 """
 from langchain_core.prompts import PromptTemplate

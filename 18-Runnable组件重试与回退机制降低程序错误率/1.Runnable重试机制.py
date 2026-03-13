@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/6 9:59
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Runnable重试机制.py
 """
 from langchain_core.runnables import RunnableLambda

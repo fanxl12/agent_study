@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/4 15:00
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.自定义检索器使用技巧.py
 """
 from typing import List

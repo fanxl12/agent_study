@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/5/22 23:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.BaseChatMemory运行流程解析.py
 """
 from langchain_classic.memory.chat_memory import BaseChatMemory

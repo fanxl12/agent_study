@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/6 11:09
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.多向量索引-假设性查询检索原文档.py
 """
 from typing import List

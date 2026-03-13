@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/26 15:53
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 03.百度千帆文本嵌入模型.py
 """
 import dotenv

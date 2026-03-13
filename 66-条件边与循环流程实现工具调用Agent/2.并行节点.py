@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/15 11:42
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.并行节点.py
 """
 from typing import Any

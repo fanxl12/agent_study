@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/8 21:36
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.Prompt组件基础用法.py
 """
 from datetime import datetime

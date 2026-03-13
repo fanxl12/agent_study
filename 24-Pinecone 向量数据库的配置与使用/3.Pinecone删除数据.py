@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/17 9:18
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 3.Pinecone删除数据.py
 """
 import dotenv

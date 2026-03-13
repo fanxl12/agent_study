@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/2 14:33
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.语义分割器使用示例.py
 """
 import dotenv

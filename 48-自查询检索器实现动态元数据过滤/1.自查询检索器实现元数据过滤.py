@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/5 16:28
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 10.自查询检索器实现元数据过滤.py
 """
 import dotenv

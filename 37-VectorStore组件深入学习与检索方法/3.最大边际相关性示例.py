@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/4 8:06
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 3.最大边际相关性示例.py
 """
 import dotenv

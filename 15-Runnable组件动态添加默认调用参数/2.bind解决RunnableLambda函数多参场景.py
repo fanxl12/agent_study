@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/4 11:48
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.bind解决RunnableLambda函数多参场景.py
 """
 import random

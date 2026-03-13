@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/6/10 11:06
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.LCEL表达式简化版本.py
 """
 

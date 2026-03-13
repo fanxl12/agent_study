@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/1 23:30
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 4.通用文件加载器.py
 """
 from langchain_community.document_loaders import UnstructuredFileLoader

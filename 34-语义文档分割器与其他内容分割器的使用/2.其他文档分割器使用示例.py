@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/2 14:55
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 2.其他文档分割器使用示例.py
 """
 from langchain_text_splitters import HTMLHeaderTextSplitter

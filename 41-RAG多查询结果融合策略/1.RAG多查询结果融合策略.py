@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time    : 2024/7/3 23:45
-@Author  : thezehui@gmail.com
+@Author  : 1964645988@qq.com
 @File    : 1.RAG多查询结果融合策略.py
 """
 from typing import List
